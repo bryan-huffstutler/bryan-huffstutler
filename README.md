@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-huffstutler-637730197&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-huffstutler-637730197" /> </p>
 
-- 🔭 I’m currently working on [Nutri-App](www.github.com/bryan-huffstutler/nutri-app)
+- 🔭 I’m currently working on my [Portfolio Site](www.bryanhuffstutler.com)
 
 - 🌱 I’m currently learning **Next.js**
 
